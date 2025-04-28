@@ -9,8 +9,11 @@ Today: 4/28/2025: Stephen Marek's - Udemy course - for AWS Certified Solutions A
 Exam Date: 5/15/2025
 
 Day 1: 4/28
+
 Day 2: 4/29
+
 Day 3: 4/30
+
 Day 4: 5/1
 Day 5: 5/2
 Day 6: 5/3
