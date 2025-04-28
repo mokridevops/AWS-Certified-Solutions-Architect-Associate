@@ -38,22 +38,39 @@ lets create - users in IAM
 Sample JSON structure for IAM policy:
 
 {
+
    "Version": "2012-1-17",
+   
    "Id": "S3-Account-Permissions",
+   
    "Statement":  [
+   
    {
+   
       "Sid": "1",
+      
       "Effect": "Allow",
+      
       "Principal": {
+      
       "AWS": ["arn:aws:iam::1234445555:root"]
+      
     },
+    
     "Action": [
+    
     "s3:GetObject",
+    
     "s3:PutObject"
+    
     ],
+    
     "Resource":["arn:aws:s3:::mybucket/*"]
+    
     }
+    
   ]
+  
  }
 
  
