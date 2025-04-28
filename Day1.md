@@ -14,3 +14,8 @@ Tour of AWS Console & Services in AWS
 
 IAM is not region specific, it is available globally.
 
+![image](https://github.com/user-attachments/assets/e0c5896c-9b12-4947-b2c6-edd4b32fbd3b)
+
+
+Why do we create users:  by default we are - a root user - it is not best practice to give access to root user - the root user can delete the resources.
+
